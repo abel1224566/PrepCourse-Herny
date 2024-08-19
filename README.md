@@ -1,2 +1,2 @@
 # PrepCourse-Herny
-este es un positorio n2 del precurso de henry
+este es un repositorio n2 del precurso de henry
